@@ -1,0 +1,9 @@
+{
+    "version":"1.0",
+    "start":"helloworld*",
+    "backup": ["./*.config","./*.exe"],
+    "verbal": true,
+    "resp_port": 25576,
+    "max_retry": 3,
+    "crash_time": 3
+}
