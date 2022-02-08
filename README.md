@@ -1,4 +1,5 @@
-# Automatic-Update-Launcher
+![](img/banner.jpg)
+# Automatic Update Launcher
 A general purpose updater for updating (web) applications server when update folder exists
 
 ## What is this?
